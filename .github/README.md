@@ -1,7 +1,7 @@
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ 」──
+    ──「 Phantom ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ](https://t.me/FallenMusicBot)**_
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━
 
 <p align="center">
 <a href="https://github.com/AnonymousX1025/FallenMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -20,7 +20,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 <a href="https://github.com/AnonymousX1025/FallenMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/FallenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://te.legra.ph/file/8a38f66826c2ea5e97724.jpg">
@@ -73,7 +73,7 @@ Press `Ctrl+b` and then `d`
 
 </details>
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
@@ -85,7 +85,7 @@ Press `Ctrl+b` and then `d`
 <a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
     ─「 ᴄʀᴇᴅɪᴛs 」─

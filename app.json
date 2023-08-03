@@ -29,17 +29,17 @@
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
         "value": "1356469075",
-        "required": true
+        "required": false
       },
       "SESSION": {
         "description": "A pyrogram v2 string session from @StringFatherBot",
         "value": "",
-        "required": true
+        "required": false
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
-        "required": true
+        "value": "1644885950",
+        "required": false
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",

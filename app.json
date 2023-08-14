@@ -27,14 +27,14 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "Fill your user id here. (Must be integer)",
-        "value": "1356469075",
-        "required": false
+        "description": " This Get ID Value @getmyid_bot (Must be integer)",
+        "value": "",
+        "required": true
       },
       "SESSION": {
         "description": "A pyrogram v2 string session from @StringFatherBot",
         "value": "",
-        "required": false
+        "required": true
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
@@ -43,8 +43,8 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
-        "required": false
+        "value": "t.me/cerenasistanchannel",
+        "required": true
       }
     },
     "buildpacks": [

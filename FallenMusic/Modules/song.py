@@ -55,7 +55,7 @@ async def song(_, message: Message):
     except Exception as ex:
         LOGGER.error(ex)
         return await m.edit_text(
-            f"ғᴀɪʟᴇᴅ ᴛᴏ ғᴇᴛᴄʜ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴛ-ᴅʟ.\n\n**ʀᴇᴀsᴏɴ :** `{ex}`"
+            f"Example.\n\n**/song Calvin Harris Summer  :** `{ex}`"
         )
 
     await m.edit_text("» ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ sᴏɴɢ,\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...")

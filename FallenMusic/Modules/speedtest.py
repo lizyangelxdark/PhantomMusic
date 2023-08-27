@@ -25,7 +25,7 @@ import asyncio
 import speedtest
 from pyrogram import filters
 
-from FallenMusic import LOGGER, app
+from FallenMusic import SUDOERS, app
 
 
 def testspeed(m):

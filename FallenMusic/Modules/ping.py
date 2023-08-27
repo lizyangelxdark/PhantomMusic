@@ -60,7 +60,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "✨ sᴏᴜʀᴄᴇ ✨",
-                        url="https://github.com/lizyangelxdark/PhantomMusic/edit/dependabot/pip/aiohttp-3.8.5/FallenMusic",
+                        url="https://github.com/lizyangelxdark/PhantomMusic",
                     ),
                 ],
             ]

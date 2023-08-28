@@ -55,7 +55,7 @@ async def song(_, message: Message):
     except Exception as ex:
         LOGGER.error(ex)
         return await m.edit_text(
-            f"Example.\n\n**/song Calvin Harris Summer"
+            f"[ Example ]\n\n**/song Calvin Harris Summer"
         )
 
     await m.edit_text("» ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ sᴏɴɢ,\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...")
@@ -74,7 +74,7 @@ async def song(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ʏᴏᴜᴛᴜʙᴇ ❤️",
+                            text="Yᴏᴜᴛᴜʙᴇ ❤️",
                             url=link,
                         )
                     ]

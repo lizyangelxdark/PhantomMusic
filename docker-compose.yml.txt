@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  worker:
+    build: .
+    environment:
+      SUPPORT_CHAT: $SUPPORT_CHAT
+      SUDO_USERS: $SUDO_USERS
+      SESSION: $SESSION
+      API_ID: $API_ID  # defaults to None
+      API_HASH: $API_HASH  # defaults to None
+      OWNER_ID: $OWNER_ID  # defaults to None
+      BOT_TOKEN: $BOT_TOKEN # Not mandatory

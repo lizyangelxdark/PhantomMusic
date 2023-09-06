@@ -20,7 +20,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 <a href="https://github.com/AnonymousX1025/FallenMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/FallenMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://te.legra.ph/file/8a38f66826c2ea5e97724.jpg">
@@ -35,6 +35,11 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/lizyangelxdark/PhantomMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+## Deploy to Okteto
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/lizyangelxdark/PhantomMusic)
 
 <details>
 <summary><h3>

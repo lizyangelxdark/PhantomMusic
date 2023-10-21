@@ -77,7 +77,7 @@ async def play(_, message: Message):
             get = await app.get_chat_member(message.chat.id, ASS_ID)
         except ChatAdminRequired:
             return await fallen.edit_text(
-                f"» [ Admin Select ]\n\nInvited User Enable ✅\n\nManage Video Chat Enable ✅\n\nGood Luck 🎶"
+                f"» [ Admin Select ]\n\nInvited User Good Luck 🎶"
             )
         if get.status == ChatMemberStatus.BANNED:
             unban_butt = InlineKeyboardMarkup(
@@ -106,7 +106,7 @@ async def play(_, message: Message):
                 invitelink = await app.export_chat_invite_link(message.chat.id)
             except ChatAdminRequired:
                 return await fallen.edit_text(
-                    f"» ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪssɪᴏɴs ᴛᴏ ɪɴᴠɪᴛᴇ ᴜsᴇʀs ᴠɪᴀ ʟɪɴᴋ ғᴏʀ ɪɴᴠɪᴛɪɴɢ {BOT_NAME} ᴀssɪsᴛᴀɴᴛ ᴛᴏ {message.chat.title}."
+                    f"» f"» [ Add Admin ⭐️ ]\n\nInvited User Enable ✅\n\nManage Video Chat Enable ✅\n\nGood Luck 🎧"
                 )
             except Exception as ex:
                 return await fallen.edit_text(

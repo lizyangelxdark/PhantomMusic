@@ -77,7 +77,7 @@ async def play(_, message: Message):
             get = await app.get_chat_member(message.chat.id, ASS_ID)
         except ChatAdminRequired:
             return await fallen.edit_text(
-                f"» ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪssɪᴏɴs ᴛᴏ ɪɴᴠɪᴛᴇ ᴜsᴇʀs ᴠɪᴀ ʟɪɴᴋ ғᴏʀ ɪɴᴠɪᴛɪɴɢ {BOT_NAME} ᴀssɪsᴛᴀɴᴛ ᴛᴏ {message.chat.title}."
+                f"» [ Admin Select ] \n\Invited User Enable ✅ \n\Manage Video Chat Enable ✅ \n\Good Luck 🎶"
             )
         if get.status == ChatMemberStatus.BANNED:
             unban_butt = InlineKeyboardMarkup(

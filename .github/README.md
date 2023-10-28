@@ -48,27 +48,47 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 - Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenMusic/blob/master/sample.env)
 - Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
+```
+sudo apt-get update && sudo apt-get upgrade -y
+```
 - Install required packages by :
-`sudo apt-get install python3-pip ffmpeg -y`
+```
+sudo apt-get install python3-pip ffmpeg -y
+```
 - Install pip by :
-`sudo pip3 install -U pip`
+```
+sudo pip3 install -U pip
+```
 - Install node by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+```
+curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+```
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenMusic && cd FallenMusic`
+```
+git clone https://github.com/AnonymousX1025/FallenMusic && cd FallenMusic
+```
 - Install requirements by :
-`pip3 install -U -r requirements.txt`
+```
+pip3 install -U -r requirements.txt
+```
 - Fill your variables in the env by :
-`vi sample.env`<br>
+```
+vi sample.env
+```
 Press `I` on the keyboard for editing env<br>
 Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Rename the env file by :
-`mv sample.env .env`
+```
+mv sample.env .env
+```
 - Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
+```  
+sudo apt install tmux && tmux
+```
 - Finally run the bot by :
-`bash fallen`
+```
+bash fallen
+```
 - For getting out from tmux session<br>
 Press `Ctrl+b` and then `d`
 
@@ -84,10 +104,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RoxyTeams"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RoxyBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━

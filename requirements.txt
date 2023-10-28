@@ -4,6 +4,8 @@ aiohttp==3.8.5
 numpy==1.25.1
 pillow==10.0.0
 psutil
+motor
+pymongo==4.3.3
 pyrogram==2.0.106
 py-tgcalls==0.9.7
 python-dotenv==1.0.0

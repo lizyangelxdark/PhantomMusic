@@ -9,6 +9,7 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN", None)
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://userbot:userbot@cluster0.yyijp36.mongodb.net/?retryWrites=true&w=majority")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "90"))
 
 OWNER_ID = int(getenv("OWNER_ID"))

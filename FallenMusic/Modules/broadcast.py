@@ -17,7 +17,7 @@ async def broadcast(_, message):
     else:
         if len(message.command) < 2:
             return await message.reply_text(
-                "**Kullanım**:\n/broadcast [MESSAGE] And [Message Reply]"
+                "**[ Demo ]**:\n/broadcast [MESSAGE] And [Message Reply]"
             )
         query = message.text.split(None, 1)[1]
     sent = 0

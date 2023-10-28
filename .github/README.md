@@ -43,7 +43,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 <details>
 <summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
+- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ 👇🏻</b>
 </h3></summary>
 
 - Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenMusic/blob/master/sample.env)
@@ -65,7 +65,7 @@ curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-ge
 ```
 - Clone the repository by :
 ```
-git clone https://github.com/AnonymousX1025/FallenMusic && cd FallenMusic
+git clone https://github.com/lizyangelxdark/PhantomMusic && cd PhantomMusic
 ```
 - Install requirements by :
 ```
